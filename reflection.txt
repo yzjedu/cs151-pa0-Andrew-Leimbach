@@ -1,0 +1,33 @@
+Project Reflection
+
+1. How was it solving a problem for someone you know?
+   It felt good to create something of my own that I could
+   use to help a friend out. I know this program could be useful
+   to many people and not just him, so it is nice knowing that
+   I made an impact in any way, even if it's as little as possible.
+
+2. How was it programming by yourself instead of with a partner?
+   In all honesty I enjoyed working by myself on this project.
+   It felt good to overcome any challenges that I had by myself,
+   and it gave me the confidence to keep working until I came up
+   with something that I was proud of. I didn't have to deal with
+   scheduling a time for both me and my partner to work, and I also
+   didn't have to deal with the conflict that can arise when working
+   with a partner. Although working with a partner can have its benefits,
+   I enjoyed working alone on this project.
+
+3. What did you learn?
+   During this project I learned many key programming skills.
+   I learned about troubleshooting, and testing with Excel, which
+   both helped me out in order to end up with the final project I
+   now have. I did face some challenges during this assignment,
+   but I ended up getting through them, and the problem-solving process
+   that I had to go through taught me many things that I can apply
+   in the future.
+
+4. What would you do differently next time?
+   In the next project, I think I would manage my time better.
+   I worked on this all in one go which might be okay for PA0, but I
+   don't think it will work well come further PA's. I will be expected to
+   do more next time, and in order to fulfill those expectations I will
+   need to manage my time as best as I can and work hard and effectively.
